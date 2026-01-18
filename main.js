@@ -1,4 +1,4 @@
-console.log('0100011000');
+console.log('');
 let lines=document.getElementsByClassName('lines');
  let words=['0','1','0','1','1','1','0','0','1'];
 let first=0;
