@@ -1,6 +1,6 @@
 console.log('0100011000');
 let lines=document.getElementsByClassName('lines');
- let words=['a','r','0','m','a','n','d','o','o','1','1','1','0','0','1'];
+ let words=['0','1','0','1','1','1','0','0','1'];
 let first=0;
 
 let rand;
